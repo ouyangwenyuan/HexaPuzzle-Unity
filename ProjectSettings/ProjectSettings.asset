@@ -767,9 +767,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: dd322b29-b767-4df4-95d2-e49e71902b2b
+  cloudProjectId: e31654c7-db67-49a6-af4e-3d91961477d9
   projectName: Hexa Puzzle
-  organizationId: dong-tran
+  organizationId: zcwfeng
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
